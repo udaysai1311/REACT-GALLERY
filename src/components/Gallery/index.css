@@ -1,0 +1,20 @@
+.bg-container {
+  padding: 30px;
+  background-color: #ffffff;
+  font-family: 'Roboto';
+}
+.head {
+  color: #1e293b;
+}
+.para {
+  color: #64748b;
+}
+.image-container {
+  width: 600px;
+}
+.ul-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  padding-left: 0;
+}
